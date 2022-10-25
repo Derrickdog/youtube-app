@@ -1,6 +1,24 @@
-# Getting Started with Create React App
+# YouTube Searcher
 
 Live Demo: [YouTube Searcher](https://youtubesearcher.netlify.app/)
+
+## Description
+
+Search from all YouTube videos and view the top result in a custom video player with additional recommended videos.
+
+## Built With
+
+ReactJS, JavaScript, HTML, CSS, npm
+
+## Using YouTube Data API
+
+This app fetches information from [YouTube Data API](https://developers.google.com/youtube/v3).
+
+## Deployed with Netlify
+
+Website was deployed with [Netlify](https://netlify.com).
+
+## Made with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
