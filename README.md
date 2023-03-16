@@ -1,10 +1,12 @@
-# YouTube Searcher
+# YouTube Clone
 
-Live Demo: [YouTube Searcher](https://youtubesearcher.netlify.app/)
+Live Demo: [YouTube Clone](https://youtubesearcher.netlify.app/)
 
 ## Description
 
 Search from all YouTube videos and view the top result in a custom video player with additional recommended videos.
+
+![YouTube](https://user-images.githubusercontent.com/105069540/225627223-cf2c342d-fbcd-4dfa-b816-c0cfc943f26b.png)
 
 ## Built With
 
